@@ -1,2 +1,6 @@
 Line 1: Main branch content
+<<<<<<< HEAD
 Line 1: Main branch update
+=======
+Line 2: Feature branch update
+>>>>>>> bba0dd7 (Add feature-specific content)
